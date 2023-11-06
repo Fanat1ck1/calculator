@@ -7,4 +7,4 @@
 # How to run
 If you want to run via .cs:
 1. Open new terminal (Terminal -> New Terminal)
-2. type the command: dotnet run
+2. Type the command: dotnet run
